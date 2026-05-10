@@ -1,0 +1,44 @@
+{
+  "name": "@packrift/box-size-reference",
+  "version": "0.1.0",
+  "description": "Dependency-free reference helpers for corrugated box sizes, fit checks, volume, and parcel measurements.",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "docs",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "corrugated-boxes",
+    "box-sizes",
+    "carton",
+    "packaging",
+    "shipping-boxes",
+    "ecommerce",
+    "fulfillment"
+  ],
+  "homepage": "https://packrift.github.io/box-size-reference/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Packrift/box-size-reference.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Packrift/box-size-reference/issues"
+  },
+  "license": "MIT",
+  "sideEffects": false,
+  "engines": {
+    "node": ">=20"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
