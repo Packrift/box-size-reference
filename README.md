@@ -120,6 +120,10 @@ Corrugated boxes are commonly sold by inside dimensions in length x width x heig
 npm test
 ```
 
+## Guides
+
+- [Corrugated size-selection playbook](docs/corrugated-size-selection-playbook.md)
+
 ## License
 
 MIT
